@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+body{
+    
+}
+
+.main-board{
+    /*-moz-box-shadow: 0 0 0 3px #65b37a, 2px 1px 4px 4px rgba(10,10,0,.5);*/
+    /*-webkit-box-shadow: 0 0 0 3px #65b37a, 2px 1px 4px 4px rgba(10,10,0,.5);*/
+    /*box-shadow: 0 0 0 3px #65b37a, 2px 1px 6px 4px rgba(10,10,0,.5);*/
+    
+    border-radius:50px;    
+    margin: 100px auto 0px auto;
+    min-height: 600px;
+    width: 80%;
+    background-color: gray;
+}
